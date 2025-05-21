@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 ## Download
 
-For convenience, we pack the subsets of datasets and they are available './data/(e.g., CamelDeer)'. Please change the `ROOT_DIR` in `fine_tune_blip.py`. The pretrained VLFMs is available on Lavis (a widely-used repository).
+For convenience, we pack the subsets of datasets and they are available './data/(e.g., CamelDeer)' ([full link](https://drive.google.com/file/d/1vyomvGBrXEnzE21P-nJr20OeZhF4zy5h/view?usp=sharing)). Please change the `ROOT_DIR` in `fine_tune_blip.py`. The pretrained VLFMs is available on Lavis (a widely-used repository).
 
 ## Inference
 
